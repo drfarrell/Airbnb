@@ -212,6 +212,13 @@ img {
   padding-bottom: 0px;
 }
 
+.commentary {
+  padding-left: 17%;
+  padding-right: 17%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
 /*-----------------------------Project Navigation---*/
 
 .nextproject {
